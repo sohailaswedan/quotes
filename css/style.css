@@ -1,0 +1,16 @@
+h1 {
+    font-size: 80px;
+    font-family: Impact;
+    font-weight: bold;
+}
+button
+{
+    padding-block: 25px;
+    padding-inline: 80px;
+    color: white;
+    background-color: blue;
+}
+button.q-btn:hover
+{
+  background-color: darkgreen;
+}
